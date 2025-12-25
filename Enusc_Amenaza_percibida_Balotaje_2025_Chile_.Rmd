@@ -1,0 +1,21 @@
+---
+title: Enusc_Amenaza_percibida_Balotaje_2025_Chile
+author: "Felipe Obregón Ochoa"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+
+La percepción de amenaza delictual tanto en Chile como en el mundo ha sido un fenómeno en aumento,lo cual puede estar vinculado a diferentes factores y cargar un peso estadisticamente significativo sobre variables de interés como actitudes, creencias y conductas de interés político, sociológico y psicológico (Reyes-Sosa, et al., 2025; Obregón, et, al., 2025, Triana, 2021), especificamente cuando estas se traducen en  hostilidad o rechazo haciaa grupos minorizados, amenazantes o marginados. 
+
+
+
+
+
+Referencias
+
+Obregón, F., Bahamondes, J., González, L., Gutiérrez, F., y Cárdenas, M. (2025). Jerarquía y autoridad: motivaciones ideológicas de la oposición hacia la afirmación de derechos de inmigrantes latinoamericanos en Chile [Hierarchy and authority: ideological motivations of opponents of the affirmation of the rights of Latin American immigrants in Chile]. Revista de Psicología Social. Publicación anticipada en línea. https://doi.org/10.1177/02134748241304940
+
+Reyes-Sosa, H., Puente-Martínez, A., Páez, D., y Castro-Angulo, S. (2025). Efectos de la victimización, percepción de riesgo y vulnerabilidad en el miedo al delito: un estudio en jóvenes universitarios mexicanos. Revista de Psicología, 43(2), 744-774. https://doi.org/10.18800/psico.202502.005
+
+Triana Sánchez, J. L. (2021). Percepción de inseguridad, temor al delito y medidas de autoprotección: el caso de Acapulco, Guerrero. Nóesis. Revista de Ciencias Sociales y Humanidades, 30(60), 166-190. https://dx.doi.org/10.20983/noesis.2021.2.9
