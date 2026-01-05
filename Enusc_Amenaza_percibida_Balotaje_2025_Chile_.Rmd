@@ -6,16 +6,153 @@ output: pdf_document
 ---
 
 
-La percepción de amenaza delictual tanto en Chile como en el mundo ha sido un fenómeno en aumento,lo cual puede estar vinculado a diferentes factores y cargar un peso estadisticamente significativo sobre variables de interés como actitudes, creencias y conductas de interés político, sociológico y psicológico (Reyes-Sosa, et al., 2025; Obregón, et, al., 2025, Triana, 2021), especificamente cuando estas se traducen en  hostilidad o rechazo haciaa grupos minorizados, amenazantes o marginados. 
+La percepción de amenaza delictual tanto en Chile como en el mundo ha
+sido un fenómeno en aumento,lo cual puede estar vinculado a diferentes
+factores y cargar un peso estadisticamente significativo sobre variables
+de interés como actitudes, creencias y conductas de interés político,
+sociológico y psicológico (Reyes-Sosa, et al., 2025; Obregón, et, al.,
+2025, Triana, 2021), especificamente cuando estas se traducen en
+hostilidad o rechazo hacia grupos minorizados, amenazantes o marginados.
+Diferentes autores han examinado cómo ciertos rasgos de personalidad y
+actitudes ideolpigicas y visiones de mundo, especificamente el
+Autoritarismo de Ala Derecha RWAy la Orientación a la Dominancia Social
+(SDO), predicen el prejuicio y la intoleranciahacia gruoos disidentes o
+situaciones de cambio 8citar). Dickitt (19x\textless\textless)
 
-
-
-
+La percepción de inseguridad en el mundo, y específicamente en Chile, ha
+sido un fenómeno en aumento. Citar. Lo cual puede estar correlacionado a
+diferentes factores y cargar un peso estadísticamente significativo para
+muchos otros; entre ellos, actitudes políticas como hostilidad y rechazo
+a grupos considerados como amenazantes o, incluso, moderar actitudes
+como lo que autores han referido como autoritarismos de ala derecha
+(RWA) o a la orientación a la dominancia social. Desagrupada en la
+tendencia a la oposición a la igualdad y a la preferencia por sociedades
+estructuradas jerárquicamente. Ambas han sido agrupadas por lo que
+Duckitt ha desarrollado como el Modelo Dual del Prejuicio. Lo anterior
+nos permite reconocer ciertos predictores moderadores y moduladores
+relacionados a la emergencia de este tipo de actitudes políticas,
+sociológicas y psicológicas, como también de personalidad, las cuales
+pueden ser de mucha utilidad a la hora de entender fenómenos y actitudes
+en esencia en escenarios contemporáneos. Como, por ejemplo, la expansión
+de regímenes totalitarios en Latinoamérica y el mundo de carácter de
+ultra derecha. Datos a nivel mundial han sido contundentes al declarar
+que existe una relación causal clara entre la amenaza delictual y
+económica percibida al momento de evaluar los niveles sociales de este
+tipo de actitudes políticas. Citar. Las cuales, inexorablemente,
+decantan en preferencias políticas como regímenes de derecha
+autoritaria. Citar. Lo anterior reviste un serio problema tanto para la
+economía (Citar), los derechos sociales (Citar), como por sobre todo
+para el bienestar de las personas minorizadas, estigmatizadas y que
+durante mucho tiempo han luchado por lograr obtener derechos sociales.
+Citar. Lo anterior ha sido visualizado por diferentes realidades a lo
+largo del tiempo, en donde el factor del miedo ha sido ocupado como una
+de las principales campañas propagandísticas para promover actitudes
+políticas antes mencionadas. Citar. Para ser objetivos, muchas de estas
+actitudes, entre comillas ``reaccionarias'', se articulan como
+consecuencias de movimientos sociales tales como los vividos como la
+reforma estudiantil en Chile 68, el mayo francés del mismo año, el
+movimiento Occupy Wall Street y Black Lives Matters en Estados Unidos;
+como también en el contexto nacional, la ola feminista de 2018 y la
+revuelta social de 2019 en Chile. Todos los cuales provocaron desmanes y
+desórdenes públicos, los cuales fueron el foco de la exposición
+mediática. Además de ser la principal cobertura de los medios de
+comunicación. En este sentido, los delitos de alta connotación social,
+como también su relación al aumento de la migración, han tenido una
+exposición significativamente mayor ante otro tipo de delitos o muertes
+dentro de este país. Citar esa referencia. Lo anterior permite dar
+cuenta de una clara intencionalidad de modular actitudes políticas en un
+contexto electoral, en donde los dos grandes candidatos eran
+representantes del Partido Comunista, de ala izquierda, y otro de ultra
+derecha, el Partido Republicano. Problema de investigación: Desde hace
+décadas se habla en los medios de comunicación\ldots{} se habla sobre
+los medios de comunicación como, entre comillas, ``el cuarto poder''.
+Por la influencia sobre la opinión pública y, por ende, en la modulación
+de las actitudes políticas sobre la población. En este contexto, la
+derecha radical se ha opuesto vigorosamente a la Ley de Prensa y el
+levantamiento del secreto bancario. Citar. Es importante dar relevancia
+a la importancia en torno al debate y los hechos sobre la exposición
+mediática de los delitos de alta connotación social y el aumento a la
+amenaza percibida en torno a la seguridad delictual, como también a la
+seguridad económica. En contexto de lo mencionado, la ENUSC viene desde
+hace ya varios años evaluando ciertas variables de interés para poder
+reconocer y radiografiar cómo la sociedad chilena va percibiendo la
+seguridad y cómo también ha sido víctima de diferentes tipos de delito.
+En nivel urbano. Es posible cruzar este tipo de datos tanto con la
+información sobre los datos electorales públicos del Servel,
+específicamente con los resultados de las elecciones a nivel regional, y
+con los niveles de exposición respecto a delitos de alta connotación
+social en medios de comunicación regionales, en relación a otro tipo de
+muertes, homicidios o delitos que mide también esta misma encuesta. Ya
+que puede existir una intencionalidad para que la población en Chile
+genere una percepción de amenaza que no corresponda respecto a los
+índices de victimización reales. Ya que se ha demostrado que los
+cocientes entre la amenaza percibida y los indicadores de victimización
+son mucho más altos que en otros países de Latinoamérica. Objetivo: El
+principal objetivo de esta investigación es contribuir al campo de la
+psicología política para reconocer cómo la promoción del miedo y la
+emergencia de estas actitudes políticas asociadas a posiciones de
+extrema derecha pueden significar una amenaza para el desarrollo de
+sociedades psicosocialmente, entre comillas, ``saludables''. En términos
+concretos, el objetivo del presente trabajo busca establecer
+correlaciones entre variables de la ENUSC y las preferencias electorales
+del balotaje en Chile, desagrupadas a nivel regional durante el
+2015\ldots{} desde un enfoque de ciencia abierta\ldots{} según estos
+datos en el contexto chileno en el año 2025, como también durante los
+dos\ldots{} las tres últimos periodos electorales presidenciables.
+Específicamente el 2017, el 2021 y el 2025. Metodología: Para esta
+investigación se ocuparán tres estudios. Específicamente en aquellos
+años en que hubieron balotajes y también se hayan levantado datos de la
+ENUSC. Para evaluar así cómo, mediante series de tiempo, existen
+correlaciones entre aquellas variables y cómo durante las últimas
+elecciones los datos arrojados por la ENUSC 2024 podrían haber generado
+una correlación positiva y estadísticamente significativa entre las
+variables de interés. Además, estos serán compensados\ldots{} o sea,
+comparados con la cobertura estadística de delitos de alta connotación
+social expuestos por los medios oficiales. Y para ello se construirá,
+mediante el uso de inteligencia artificial, una base de datos que
+permita recopilar y categorizar, para luego hacer un cociente, entre
+diferente tipo de cobertura de delitos y muertes en relación a este tipo
+de delitos de alta connotación social. Procedimiento: Se recolectarán
+datos de aquellos años donde se levantaron datos de la ENUSC en los
+cuales hubieron elecciones presidenciales. Luego se hará un análisis
+exploratorio de estos datos para luego decidir, según cada manual,
+cuáles pueden ser variables ``proxies'' de amenaza delictual percibida y
+también índices de victimización. También se buscarían variables
+``proxies'' del constructo RWA, a saber, autoritarismo de ala derecha.
+Luego de ello, se recolectará la cantidad de noticias de muerte, delitos
+y también delitos de alta connotación social en cada una de las regiones
+para luego realizar un cociente para establecer el porcentaje de estos
+últimos en función de los demás tipos de delitos. Posterior a ello, se
+desagruparán las categorías en cada uno de estos años y se realizarán
+tanto: series de tiempo, tablas de contingencia, correlaciones, curvas
+ROC, para posteriormente hacer inferencias como regresiones lineales. Y
+luego de ello se construirá un Dashboard que permita visualizar estos
+datos mediante el uso de R Studio y el paquete Shiny. La principal
+hipótesis del presente estudio es que existirá una correlación positiva
+entre las variables seleccionadas de la ENUSC y el porcentaje de voto a
+la derecha en el balotaje de las tres últimas elecciones presidenciales,
+en al menos un 80\% en cada una de las regiones del país. Siendo durante
+la última elección en donde la correlación sea la mayor vista antes.
 
 Referencias
 
-Obregón, F., Bahamondes, J., González, L., Gutiérrez, F., y Cárdenas, M. (2025). Jerarquía y autoridad: motivaciones ideológicas de la oposición hacia la afirmación de derechos de inmigrantes latinoamericanos en Chile [Hierarchy and authority: ideological motivations of opponents of the affirmation of the rights of Latin American immigrants in Chile]. Revista de Psicología Social. Publicación anticipada en línea. https://doi.org/10.1177/02134748241304940
+Obregón, F., Bahamondes, J., González, L., Gutiérrez, F., y Cárdenas, M.
+(2025). Jerarquía y autoridad: motivaciones ideológicas de la oposición
+hacia la afirmación de derechos de inmigrantes latinoamericanos en Chile
+{[}Hierarchy and authority: ideological motivations of opponents of the
+affirmation of the rights of Latin American immigrants in Chile{]}.
+Revista de Psicología Social. Publicación anticipada en línea.
+\url{https://doi.org/10.1177/02134748241304940}
 
-Reyes-Sosa, H., Puente-Martínez, A., Páez, D., y Castro-Angulo, S. (2025). Efectos de la victimización, percepción de riesgo y vulnerabilidad en el miedo al delito: un estudio en jóvenes universitarios mexicanos. Revista de Psicología, 43(2), 744-774. https://doi.org/10.18800/psico.202502.005
+Reyes-Sosa, H., Puente-Martínez, A., Páez, D., y Castro-Angulo, S.
+(2025). Efectos de la victimización, percepción de riesgo y
+vulnerabilidad en el miedo al delito: un estudio en jóvenes
+universitarios mexicanos. Revista de Psicología, 43(2), 744-774.
+\url{https://doi.org/10.18800/psico.202502.005}
 
-Triana Sánchez, J. L. (2021). Percepción de inseguridad, temor al delito y medidas de autoprotección: el caso de Acapulco, Guerrero. Nóesis. Revista de Ciencias Sociales y Humanidades, 30(60), 166-190. https://dx.doi.org/10.20983/noesis.2021.2.9
+Triana Sánchez, J. L. (2021). Percepción de inseguridad, temor al delito
+y medidas de autoprotección: el caso de Acapulco, Guerrero. Nóesis.
+Revista de Ciencias Sociales y Humanidades, 30(60), 166-190.
+\url{https://dx.doi.org/10.20983/noesis.2021.2.9}
+
+\end{document}
